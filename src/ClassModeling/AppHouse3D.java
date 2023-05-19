@@ -1,4 +1,4 @@
-package ClassModeling;
+package src.ClassModeling;
 
 public class AppHouse3D {
     public static void main(String[] args) {

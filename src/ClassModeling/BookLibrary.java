@@ -1,4 +1,4 @@
-package ClassModeling;
+package src.ClassModeling;
 
 public class BookLibrary {
     private String author;

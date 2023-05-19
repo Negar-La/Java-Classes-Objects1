@@ -1,4 +1,4 @@
-package ClassModeling;
+package src.ClassModeling;
 
 public class AppBookLibrary {
     public static void main(String[] args) {

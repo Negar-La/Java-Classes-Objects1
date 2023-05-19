@@ -1,4 +1,4 @@
-package ClassModeling;
+package src.ClassModeling;
 
 public class House3D {
     private double length;
@@ -17,7 +17,7 @@ public class House3D {
         this.width = width;
         this.height = height;
         this.color = color;
-        this.numOfRooms = numOfRooms;
+        this.numOfRooms = numOfRooms; //or       setNumOfRooms(numOfRooms);
         this.hasBackYard = hasBackYard; //or     setHasBackYard(hasBackYard);
     }
 
