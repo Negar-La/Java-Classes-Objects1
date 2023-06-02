@@ -10,7 +10,7 @@ public class StateCapitalsApp {
     public static void main(String[] args) throws Exception {
         Map<String, Capital> states = new HashMap<>();
 
-        FileReader obj = new FileReader("MoreStateCapitals.txt");
+        FileReader obj = new FileReader("MoreStateCapitals.txt");  // data unmarshalling strategy
         BufferedReader b = new BufferedReader(obj);
         Scanner sc = new Scanner(b);
 
